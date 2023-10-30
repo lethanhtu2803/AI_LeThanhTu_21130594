@@ -1,4 +1,4 @@
-package lab4.inform.student;
+package student;
 
 public class Edge {
 	private Node begin;

@@ -1,4 +1,4 @@
-package lab4.inform.student;
+package student;
 
 import java.util.ArrayList;
 import java.util.List;
